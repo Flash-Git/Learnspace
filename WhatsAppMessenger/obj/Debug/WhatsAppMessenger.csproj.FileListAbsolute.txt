@@ -1,0 +1,10 @@
+c:\users\flash\documents\visual studio 2015\Projects\WhatsAppMessenger\WhatsAppMessenger\bin\Debug\WhatsAppMessenger.exe.config
+c:\users\flash\documents\visual studio 2015\Projects\WhatsAppMessenger\WhatsAppMessenger\obj\Debug\WhatsAppMessenger.csprojResolveAssemblyReference.cache
+c:\users\flash\documents\visual studio 2015\Projects\WhatsAppMessenger\WhatsAppMessenger\obj\Debug\WhatsAppMessenger.Form1.resources
+c:\users\flash\documents\visual studio 2015\Projects\WhatsAppMessenger\WhatsAppMessenger\obj\Debug\WhatsAppMessenger.Properties.Resources.resources
+c:\users\flash\documents\visual studio 2015\Projects\WhatsAppMessenger\WhatsAppMessenger\obj\Debug\WhatsAppMessenger.csproj.GenerateResource.Cache
+c:\users\flash\documents\visual studio 2015\Projects\WhatsAppMessenger\WhatsAppMessenger\bin\Debug\WhatsAppMessenger.exe
+c:\users\flash\documents\visual studio 2015\Projects\WhatsAppMessenger\WhatsAppMessenger\bin\Debug\WhatsAppMessenger.pdb
+c:\users\flash\documents\visual studio 2015\Projects\WhatsAppMessenger\WhatsAppMessenger\bin\Debug\WhatsAppApi.dll
+c:\users\flash\documents\visual studio 2015\Projects\WhatsAppMessenger\WhatsAppMessenger\obj\Debug\WhatsAppMessenger.exe
+c:\users\flash\documents\visual studio 2015\Projects\WhatsAppMessenger\WhatsAppMessenger\obj\Debug\WhatsAppMessenger.pdb
