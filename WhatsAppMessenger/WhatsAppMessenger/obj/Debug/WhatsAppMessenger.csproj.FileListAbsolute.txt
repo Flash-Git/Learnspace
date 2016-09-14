@@ -8,3 +8,6 @@ c:\users\flash\documents\visual studio 2015\Projects\WhatsAppMessenger\WhatsAppM
 c:\users\flash\documents\visual studio 2015\Projects\WhatsAppMessenger\WhatsAppMessenger\bin\Debug\WhatsAppApi.dll
 c:\users\flash\documents\visual studio 2015\Projects\WhatsAppMessenger\WhatsAppMessenger\obj\Debug\WhatsAppMessenger.exe
 c:\users\flash\documents\visual studio 2015\Projects\WhatsAppMessenger\WhatsAppMessenger\obj\Debug\WhatsAppMessenger.pdb
+C:\Users\Flash\Documents\Git Repos\LearnSpace\WhatsAppMessenger\WhatsAppMessenger\bin\Debug\WhatsAppMessenger.exe.config
+C:\Users\Flash\Documents\Git Repos\LearnSpace\WhatsAppMessenger\WhatsAppMessenger\obj\Debug\WhatsAppMessenger.exe
+C:\Users\Flash\Documents\Git Repos\LearnSpace\WhatsAppMessenger\WhatsAppMessenger\obj\Debug\WhatsAppMessenger.pdb

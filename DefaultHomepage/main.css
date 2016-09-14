@@ -1,0 +1,95 @@
+html,
+body,
+ul {
+  margin: 0;
+  padding: 0;
+}
+ 
+body {
+  background: #262626;
+  height: 100%;
+  width: 100%;
+}
+ 
+main {
+  display: block;
+  font-family: 'Roboto';
+  left: 50%;
+  position: absolute;
+  top: 45%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+}
+
+
+top {
+  position: absolute;
+  display: block;
+  font-family: 'Roboto';
+  top: 45px;
+  width: 100%;
+}
+
+h1 {
+  color: #9F9F9F;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  width: 720px;
+}
+ 
+hr {
+  border: 0;
+  border-top: 1px solid #9F9F9F;
+  opacity: .8;
+  width: 720px;
+}
+ 
+ul {
+  display: block;
+  margin: 0 auto;
+  width: 720px;
+}
+ 
+li {
+  color: #8C8C8C;
+  display: inline-block;
+  font-size: 1.2em;
+  line-height: 1.5;
+  list-style: none;
+  margin: 5px;
+}
+ 
+a {
+  color: #9f9f9f;
+  text-decoration: none;
+  transition: .2s;
+  text-decoration: underline;
+  font-size: 0.9em;
+}
+ 
+a:hover {
+  color: #5A5A5A;
+}
+ 
+body > main:nth-child(1) > hr:nth-child(4) {
+    opacity: .6;
+}
+body > main:nth-child(1) > hr:nth-child(6) {
+    opacity: .5;
+}
+body > main:nth-child(1) > hr:nth-child(8) {
+    opacity: .4;
+}
+#googleSearch {
+  float: center;
+  width: 706px;
+  height: 24px;
+  margin: 0 auto;
+  display: block;
+  background-color: #6f6f6f;
+  margin-bottom: 16px;
+}
+#home {
+  margin-bottom: 42px;
+}
